@@ -6,6 +6,6 @@ VALUES('Márcio Calisto', 17, '2 série/Médio')
 SELECT * FROM alunos;
 
 INSERT INTO professores(nome, idade, materia)
-VALUES('Laiana Gomes', 18, 'Putaria')
+VALUES('Laiana Gomes', 18, 'Matemática')
 
 SELECT * FROM professores;
